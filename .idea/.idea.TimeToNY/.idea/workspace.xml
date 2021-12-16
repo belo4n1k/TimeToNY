@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3f4e6ae-7409-40b1-8f24-30b981567956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Blackplastic.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Blackplastic.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Readme.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Materials/OutlineFill.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Materials/OutlineFill.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Materials/OutlineMask.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Materials/OutlineMask.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Shaders.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Shaders/OutlineFill.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Shaders/OutlineFill.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Shaders/OutlineMask.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Resources/Shaders/OutlineMask.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples/Materials/Plane.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples/Materials/Plane.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples/Scenes/QuickOutline.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Samples/Scenes/QuickOutline.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Scripts/Outline.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuickOutline/Scripts/Outline.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TV (1).prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TV (1).prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CameraShtun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CameraShtun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeToNY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Minimalist Christmas/Demo/DemoScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Minimalist Christmas/Demo/DemoScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Minimalist Christmas/Materials/Wall 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Minimalist Christmas/Materials/Wall 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles/Materials/Materials/Snow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Materials/Materials/Snow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles/Materials/Textures/Snow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Materials/Textures/Snow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +22,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/CameraShtun.cs" />
+        <option value="$PROJECT_DIR$/Assets/LightPulse.cs" />
       </list>
     </option>
   </component>
@@ -62,6 +39,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/NY\NYTimer2022.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\User\Desktop\NY" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -92,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639560128618</updated>
-      <workItem from="1639560133553" duration="326000" />
+      <workItem from="1639560133553" duration="976000" />
+      <workItem from="1639641456486" duration="1512000" />
     </task>
     <servers />
   </component>
