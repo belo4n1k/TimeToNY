@@ -9,12 +9,14 @@ public class Timer : MonoBehaviour
     [SerializeField] private DateTime m_TimeToNY;
 
     [SerializeField] private Text m_Days, m_Hours, m_Minutes, m_Seconds;
+    [SerializeField] private int m_Years, m_MonthToDate, m_DaysToDate;
 
     private TimeSpan m_TimeLeft;
+   
     
     void Start()
     {
-        m_TimeToNY = new DateTime(2022,01,01,00,00,00);
+        m_TimeToNY = new DateTime(m_Years,m_MonthToDate,m_DaysToDate,00,00,00);
     }
 
     // Update is called once per frame
